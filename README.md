@@ -1,5 +1,4 @@
 # Isaac-Zhou---HDSB-2023-Hackathon-Submission
-
 ## Team Members
 - Isaac Zhou
 - Anish Koneti
@@ -10,9 +9,9 @@
 Education & Learning (Software)
 
 ## Description
-Using pygame we made a question bank for users to test their mathematics skills, and lessons accompyning the units present to help users who struggled.
+We made a question bank using Pygame library for users to test their skills in mathematics and functions. We also include lessons for various topics in functions to help the users to learn them.
 
 ## How to run?
-1. Install Python 3 (the program is only tested on version 3.9.13)
-2. Install Pygame package using pip
+1. Install Python 3 (the program is only tested on Python version 3.9.13 and 3.10.7)
+2. Install Pygame library using pip
 3. Run main.py
