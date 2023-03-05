@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- Isaac Zhou
+- Isaac Zhou (Leader)
 - Anish Koneti
 - Michael Yu
 - Aniket Arbatti
