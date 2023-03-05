@@ -19,4 +19,5 @@ We made a question bank using Pygame library for users to test their skills in m
 
 1. Install Python 3 (the program is only tested on Python version 3.9.13 and 3.10.7)
 2. Install Pygame library using pip
-3. Run main.py
+3. Download all files in ZIP
+4. Extract the ZIP file and run main.py
