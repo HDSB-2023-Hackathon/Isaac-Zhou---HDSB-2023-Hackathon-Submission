@@ -7,8 +7,9 @@
 - Aniket Arbatti
 
 ## Chosen Theme
-Education & Learning
+Education & Learning (Software)
 
+## Description
 Using pygame we made a question bank for users to test their mathematics skills, and lessons accompyning the units present to help users who struggled.
 
 ## How to run?
